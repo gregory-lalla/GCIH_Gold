@@ -1,8 +1,6 @@
 # GCIH_Gold
 Hunting through Log Data with Excel
 
-SUPPLEMENT
-
 GIAC GCIH Gold Certification
 
 Author: Greg Lalla
